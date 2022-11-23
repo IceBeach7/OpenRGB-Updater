@@ -2,7 +2,7 @@
 
 ## Information
 OpenRGB Updater is a tool for installing and updating [OpenRGB](https://openrgb.org).  
-It will download the newest artifact from [OpenRGB's GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB).
+It will download the newest artifact from [OpenRGB's GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB) and installs it to the local appdata directory.
 
 ## Usage
 1. **[Download](https://github.com/IceBeach7/OpenRGB-Updater/releases/latest/download/OpenRGB-Updater.zip)** the archive.
