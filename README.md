@@ -6,7 +6,7 @@ It will download the newest artifact from [OpenRGB's GitLab](https://gitlab.com/
 
 ## Usage
 1. **[Download](https://github.com/IceBeach7/OpenRGB-Updater/releases)** the archive.
-2. Extract it.
+2. Extract all files into the same directory.
 3. Just run it to install or whenever you want to update OpenRGB.
     - Your settings should stay after an upgrade, as long as OpenRGB doesn't change the config structure.
     - It will install the effects plugin.
