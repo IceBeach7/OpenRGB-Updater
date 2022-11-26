@@ -11,6 +11,10 @@ It downloads the newest artifact from [OpenRGB's GitLab](https://gitlab.com/Calc
     - Your settings should stay after an upgrade, as long as OpenRGB doesn't change the config structure.
     - It also installs the effects plugin.
 
+## Uninstallation
+1. Press `Win + R` and type in `%LOCALAPPDATA%`.
+2. Delete the directory named `OpenRGB`.
+
 ## To-do
 - [ ] Plugin manager
 - [ ] GUI with plugin and version selection
