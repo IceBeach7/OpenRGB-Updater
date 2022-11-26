@@ -1,4 +1,5 @@
 # ![Logo](Logo.png) OpenRGB Updater
+![Workflow badge](https://github.com/IceBeach7/OpenRGB-Updater/actions/workflows/dotnet.yml/badge.svg)
 
 ## Information
 OpenRGB Updater is a tool for installing and updating [OpenRGB](https://openrgb.org).  
