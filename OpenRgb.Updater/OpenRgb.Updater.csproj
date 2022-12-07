@@ -12,6 +12,6 @@
 		<ReferenceOutputAssembly>false</ReferenceOutputAssembly>
 	</PropertyGroup>
 	<ItemGroup>
-	  <Content Include="Logo.ico"/>
+		<Content Include="Logo.ico"/>
 	</ItemGroup>
 </Project>
